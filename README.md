@@ -1,8 +1,17 @@
-# React + Vite
+# React Example
+#### Visão Geral
+App de exemplo para ilustrar a componetização no React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Acesse: https://github.com/dezoliveira/react-example
 
-Currently, two official plugins are available:
+---
+#### Tecnologias 
+- React
+- Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--- 
+#### Como Rodar o Projeto (local)
+- git clone https://www.github.com/dezoliveira/react-example
+- cd react-example
+- npm install
+- npm run dev
